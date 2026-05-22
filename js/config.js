@@ -120,9 +120,7 @@ const API_SITES = {
         adult: true
     },
 };
-    }
-    //ARCHIVE https://telegra.ph/APIs-08-12
-};
+
 
 // 定义合并方法
 function extendAPISites(newSites) {
